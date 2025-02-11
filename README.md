@@ -11,3 +11,9 @@
 3.	Démarrez les applications :
 ```cd efrei-flix-producer && npm run dev```
 ```cd efrei-flix-consumer && npm run dev```
+
+	4.	Ouvrez http://localhost:2000/ dans votre navigateur.
+
+📌 Développement
+	•	efrei-flix-consumer/ : application principale
+	•	efrei-flix-producer/ : micro frontend exposant un Header
